@@ -21,7 +21,7 @@ Por exemplo:
 > * Variáveis com nomes significativos tornam o código mais legível.
 > * Consistência na formatação e indentação para facilitar a leitura.
 
-> [!WARNING]\
+> [!NOTE]\
 > **Observações**:
 >
 > * Este código gera a sequência de Fibonacci com base no número de elementos fornecido pelo usuário.
