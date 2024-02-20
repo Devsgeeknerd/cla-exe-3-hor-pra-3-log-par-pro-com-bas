@@ -12,7 +12,7 @@ Por exemplo:
 * 1, 1, 2 (1 + 1), 3 (1 + 2), 5 (3 + 2), e assim por diante.
 * Se o usuário fornecer o número 4, devem ser indicados os 4 primeiros números da sequência, que são 1, 1, 2 e 3.
 
-![Resolução](main.c)
+[Resolução](main.c)
 
 <!-- Informações -->
 ## &#8505; Informações
