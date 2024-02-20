@@ -14,6 +14,20 @@ Por exemplo:
 
 [Resolução](main.c)
 
+> [!IMPORTANT]\
+> **Boas práticas**:
+>
+> * Comentários claros e concisos ajudam na compreensão do código.
+> * Variáveis com nomes significativos tornam o código mais legível.
+> * Consistência na formatação e indentação para facilitar a leitura.
+
+> [!WARNING]\
+> **Observações**:
+>
+> * Este código gera a sequência de Fibonacci com base no número de elementos fornecido pelo usuário.
+> * Boa prática incluir mensagens claras para orientar o usuário na entrada de dados.
+> * A lógica principal está dentro do loop, onde os números da sequência são gerados e impressos.
+
 <!-- Informações -->
 ## &#8505; Informações
 
